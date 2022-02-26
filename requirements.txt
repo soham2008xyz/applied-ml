@@ -1,6 +1,6 @@
 fastapi==0.63.0
 matplotlib==3.2.2
-mlflow==1.13.1
+mlflow==1.23.1
 nltk==3.2.5
 numpy==1.19.5
 numpyencoder==0.3.0
