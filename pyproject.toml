@@ -31,3 +31,28 @@ virtual_env = "venv"
 testpaths = [
     "tests",
 ]
+
+# tagifai
+[tool.setuptools]
+name = "tagifai"
+version = "0.1"
+license = "MIT"
+description = "Tag suggestions for projects on Made With ML."
+author = "Goku Mohandas"
+author_email = "hello@madewithml.com"
+url = "https://madewithml.com/"
+keywords = [
+    "machine-learning",
+    "artificial-intelligence",
+    "madewithml",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Topic :: Software Development :: Build Tools",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+]
+python_requires = ">=3.6"
+packages = ["tagifai"]
+include_package_data = true
