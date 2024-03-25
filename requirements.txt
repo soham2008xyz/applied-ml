@@ -13,7 +13,7 @@ seaborn==0.13.2
 sklearn==0.0
 torch==1.13.1
 typer==0.3.2
-uvicorn[standard]==0.13.3
+uvicorn[standard]==0.29.0
 wordcloud==1.5.0
 pillow>=8.4.0
 starlette>=0.27.0 # not directly required, pinned by Snyk to avoid a vulnerability
