@@ -11,7 +11,7 @@ rich==9.9.0
 scikit-multilearn==0.2.0
 seaborn==0.13.2
 sklearn==0.0
-torch==1.13.1
+torch==2.2.0
 typer==0.3.2
 uvicorn[standard]==0.13.3
 wordcloud==1.5.0
